@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+Profile!" alt="Typing SVG" />
+<img width="100%" height="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+llzgd;A+Passionate+Developer+From+China)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0051ff&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+llzgd;A+Passionate+Developer+From+China)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://llzgdc.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue?style=flat-square&logo=google-chrome"></a>
   <a href="https://space.bilibili.com/2019959464"><img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-blue?style=flat-square&logo=bilibili"></a>
